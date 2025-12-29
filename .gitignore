@@ -211,3 +211,16 @@ __marimo__/
 .claude/
 YuE/
 
+# Project-specific ignores
+models/            # Downloaded model weights
+output/            # Generated audio/video files
+segments/          # Audio segments
+structure.txt      # Temporary planning files
+*.wav
+*.mp3
+*.mp4
+*.avi
+
+temp.py
+src/lofi_gen/music/DiffRhythm2/
+structure.txt
