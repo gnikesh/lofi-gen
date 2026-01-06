@@ -222,5 +222,5 @@ structure.txt      # Temporary planning files
 *.avi
 
 temp.py
-src/lofi_gen/music/DiffRhythm2/
+src/lofi_gen/music/models/DiffRhythm2/
 structure.txt
