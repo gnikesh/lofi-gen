@@ -2,6 +2,7 @@
 
 from lofi_gen.music.models import MusicGenModel, BaseMusicGenModel
 from lofi_gen.music.pipelines import LongMusicGenerator
+from lofi_gen.utils import merge_audio_video
 
 __version__ = "0.1.0"
 
